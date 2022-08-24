@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hqzM9A56HQbc2LLRB9iUeori7Z7TxWHNS84LxtlVhwT+rVXqEKlKaWmnybX3sHF2XIwWiEbCrNkfirvbz/AmUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\source\\repos\\ProductStore.4ERP-BI-4\\ProductStore.Domain\\ProductStore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.10\\microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

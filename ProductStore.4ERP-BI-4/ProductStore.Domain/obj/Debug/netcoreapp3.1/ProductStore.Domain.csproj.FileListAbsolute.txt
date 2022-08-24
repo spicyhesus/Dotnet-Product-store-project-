@@ -1,0 +1,9 @@
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Domain\bin\Debug\netcoreapp3.1\ProductStore.Domain.deps.json
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Domain\bin\Debug\netcoreapp3.1\ProductStore.Domain.dll
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Domain\bin\Debug\netcoreapp3.1\ProductStore.Domain.pdb
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Domain\obj\Debug\netcoreapp3.1\ProductStore.Domain.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Domain\obj\Debug\netcoreapp3.1\ProductStore.Domain.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Domain\obj\Debug\netcoreapp3.1\ProductStore.Domain.AssemblyInfo.cs
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Domain\obj\Debug\netcoreapp3.1\ProductStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Domain\obj\Debug\netcoreapp3.1\ProductStore.Domain.dll
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Domain\obj\Debug\netcoreapp3.1\ProductStore.Domain.pdb

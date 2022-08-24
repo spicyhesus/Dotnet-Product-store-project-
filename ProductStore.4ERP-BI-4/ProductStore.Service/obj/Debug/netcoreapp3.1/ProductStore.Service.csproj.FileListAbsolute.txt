@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\bin\Debug\netcoreapp3.1\ProductStore.Service.deps.json
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\bin\Debug\netcoreapp3.1\ProductStore.Service.dll
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\bin\Debug\netcoreapp3.1\ProductStore.Service.pdb
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\bin\Debug\netcoreapp3.1\ProductStore.Data.dll
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\bin\Debug\netcoreapp3.1\ProductStore.Domain.dll
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\bin\Debug\netcoreapp3.1\Service.Pattern.dll
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\bin\Debug\netcoreapp3.1\ProductStore.Data.pdb
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\bin\Debug\netcoreapp3.1\ProductStore.Domain.pdb
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\bin\Debug\netcoreapp3.1\Service.Pattern.pdb
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\obj\Debug\netcoreapp3.1\ProductStore.Service.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\obj\Debug\netcoreapp3.1\ProductStore.Service.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\obj\Debug\netcoreapp3.1\ProductStore.Service.AssemblyInfo.cs
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\obj\Debug\netcoreapp3.1\ProductStore.Service.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\obj\Debug\netcoreapp3.1\ProductStore.Service.csproj.CopyComplete
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\obj\Debug\netcoreapp3.1\ProductStore.Service.dll
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Service\obj\Debug\netcoreapp3.1\ProductStore.Service.pdb

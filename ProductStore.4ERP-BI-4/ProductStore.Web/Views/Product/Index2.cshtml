@@ -1,0 +1,10 @@
+﻿@model IEnumerable<ProductStore.Domain.Entities.Product>
+@{
+    ViewData["Title"] = "Index2";
+}
+
+<h1>Index2</h1>
+@foreach (var prod in Model)
+{
+     <partial name="_Details" model="prod"/>
+}

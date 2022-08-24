@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\bin\Debug\netcoreapp3.1\ProductStore.Data.deps.json
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\bin\Debug\netcoreapp3.1\ProductStore.Data.runtimeconfig.json
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\bin\Debug\netcoreapp3.1\ProductStore.Data.runtimeconfig.dev.json
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\bin\Debug\netcoreapp3.1\ProductStore.Data.dll
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\bin\Debug\netcoreapp3.1\ProductStore.Data.pdb
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\bin\Debug\netcoreapp3.1\ProductStore.Domain.dll
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\bin\Debug\netcoreapp3.1\ProductStore.Domain.pdb
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\obj\Debug\netcoreapp3.1\ProductStore.Data.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\obj\Debug\netcoreapp3.1\ProductStore.Data.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\obj\Debug\netcoreapp3.1\ProductStore.Data.AssemblyInfo.cs
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\obj\Debug\netcoreapp3.1\ProductStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\obj\Debug\netcoreapp3.1\ProductStore.Data.csproj.CopyComplete
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\obj\Debug\netcoreapp3.1\ProductStore.Data.dll
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\obj\Debug\netcoreapp3.1\ProductStore.Data.pdb
+C:\Users\asus\source\repos\ProductStore.4ERP-BI-4\ProductStore.Data\obj\Debug\netcoreapp3.1\ProductStore.Data.genruntimeconfig.cache
